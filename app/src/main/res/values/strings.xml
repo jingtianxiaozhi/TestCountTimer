@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCountTimer</string>
+    <string name="txt_getMsgCode_validate">发送</string>
+</resources>
